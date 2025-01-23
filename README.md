@@ -7,7 +7,7 @@
 - Make predictions on new data.</br>
 
 ## Dataset
-The dataset used is ai4i2020.csv, which contains the following key columns and Descriptions:
+The dataset used is ai4i2020.csv, from Kaggle, which contains the following key columns and Descriptions:
 
 - UID:	Unique Identifier</br>
 - air_temperature [K]:	Air temperature in Kelvin</br>
